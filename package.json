@@ -1,0 +1,12 @@
+{
+  "name": "ajs.node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ajs.Node.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
